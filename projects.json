@@ -1,0 +1,30 @@
+{"data":[
+  {
+    "company": "North Impact",
+    "description": "North Impact aims at using open source and technology to solve the toughest social challenges.",
+    "picture": "",
+    "website": "#",
+    "github": "#",
+    "contribute": "#",
+    "more": "#"
+  },
+  {
+    "company": "Medic Doctor",
+    "description": "Medic Doctor maintains and develops a health care platform for communities in developing countries.",
+    "picture": "",
+    "website": "#",
+    "github": "#",
+    "contribute": "#",
+    "more": "#"
+  },
+  {
+    "company": "Microsoft",
+    "description": "Miscrosoft has overly prices products that help to widen the gap between poor and rich.",
+    "picture": "",
+    "website": "#",
+    "github": "#",
+    "contribute": "#",
+    "more": "#"
+  }
+]
+}
