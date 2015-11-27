@@ -145,7 +145,7 @@ INTRO
   background: #FFDC00;
 }
 .intro.image-background {
-  background: url('../img/startup-room.jpg') center center no-repeat;
+  background: url('../img/coding.jpg') center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
